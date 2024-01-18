@@ -1,8 +1,3 @@
-Certainly! Here's the complete README for your React Material-UI Form Renderer library, with the "Usage" and "Props" sections combined in the same file for ease of access:
-
----
-
-```markdown
 # React Material-UI Form Renderer Library
 
 ## Description
